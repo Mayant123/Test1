@@ -1,0 +1,16 @@
+.card {
+    width: 18rem;
+}
+.input-group-text{
+    width: 10%;
+}
+.input-group{
+    justify-content: center;
+}
+.button{
+    justify-content: center;
+}
+.mx-4 {
+    margin-right: 20.5rem!important;
+    margin-left: 20.5rem!important;
+}
